@@ -1,0 +1,18 @@
+{
+  "api_zammad": {
+    "url": "https://beta-support.neutrinet.be",
+    "token": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  },
+
+  "mail_accounts": [
+    {
+      "email": "contact1@neutrinet.be",
+      "password": "XXXXXXXXXXXXXXXXX"
+    },
+    {
+      "email": "contact2@neutrinet.be",
+      "password": "XXXXXXXXXXXXXXXXX"
+    }
+  ]
+}
+
